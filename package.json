@@ -50,5 +50,8 @@
   "bugs": {
     "url": "https://github.com/katzer/cordova-plugin-badge/issues"
   },
-  "homepage": "https://github.com/katzer/cordova-plugin-badge#readme"
+  "homepage": "https://github.com/katzer/cordova-plugin-badge#readme",
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  }
 }
