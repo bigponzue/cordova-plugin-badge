@@ -52,6 +52,6 @@
   },
   "homepage": "https://github.com/katzer/cordova-plugin-badge#readme",
   "scripts": {
-    "preinstall": "node preinstall.js"
+    
   }
 }
